@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: e168ba9eb987618448d7df18fbd496fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2112399489996060086
+    second: TileMario_Sheet_0
+  - first:
+      213: -5385053460560709331
+    second: TileMario_Sheet_1
+  - first:
+      213: -3221458179415894015
+    second: TileMario_Sheet_2
+  - first:
+      213: -8319480812297377858
+    second: TileMario_Sheet_3
+  - first:
+      213: 6630463956450947585
+    second: TileMario_Sheet_4
+  - first:
+      213: -3716665831351227855
+    second: TileMario_Sheet_5
+  - first:
+      213: -639995056776795310
+    second: TileMario_Sheet_6
+  - first:
+      213: -662685390203139107
+    second: TileMario_Sheet_7
+  - first:
+      213: 8350844030306983717
+    second: TileMario_Sheet_8
+  - first:
+      213: -5269914942102691307
+    second: TileMario_Sheet_9
+  - first:
+      213: 951945025926373342
+    second: TileMario_Sheet_10
+  - first:
+      213: -3615876594252365812
+    second: TileMario_Sheet_11
+  - first:
+      213: -5154351594838991801
+    second: TileMario_Sheet_12
+  - first:
+      213: 4852880742934112031
+    second: TileMario_Sheet_13
+  - first:
+      213: -3442628489397900236
+    second: TileMario_Sheet_14
+  - first:
+      213: -4547636371944176838
+    second: TileMario_Sheet_15
+  - first:
+      213: -7147668200436747471
+    second: TileMario_Sheet_16
+  - first:
+      213: 2675356466083574476
+    second: TileMario_Sheet_17
+  - first:
+      213: -7915316637459037648
+    second: TileMario_Sheet_18
+  - first:
+      213: 7703451699573136579
+    second: TileMario_Sheet_19
+  - first:
+      213: -3230750833012920474
+    second: TileMario_Sheet_20
+  - first:
+      213: 7252808785095514978
+    second: TileMario_Sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMario_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 813
+        width: 318
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57ee8e420c05d10800000000000000
+      internalID: 2112399489996060086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 813
+        width: 306
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d297acaa8627445b0800000000000000
+      internalID: -5385053460560709331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 813
+        width: 322
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10893259ad41b43d0800000000000000
+      internalID: -3221458179415894015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 813
+        width: 305
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7265b97444b8c80800000000000000
+      internalID: -8319480812297377858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 813
+        width: 305
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1023a44b6d3240c50800000000000000
+      internalID: 6630463956450947585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 813
+        width: 306
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a6a7d3e10cb6cc0800000000000000
+      internalID: -3716665831351227855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 813
+        width: 306
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b20def2e74e17f0800000000000000
+      internalID: -639995056776795310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 813
+        width: 318
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbc91f062badc6f0800000000000000
+      internalID: -662685390203139107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 439
+        width: 306
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9321a66824e370800000000000000
+      internalID: 8350844030306983717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 439
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512227708408dd6b0800000000000000
+      internalID: -5269914942102691307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 439
+        width: 305
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf9a0c15fcf53d00800000000000000
+      internalID: 951945025926373342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 439
+        width: 305
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0040ff2563d1ddc0800000000000000
+      internalID: -3615876594252365812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 439
+        width: 305
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c572e88801878b0800000000000000
+      internalID: -5154351594838991801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 439
+        width: 304
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ebe3f255e85340800000000000000
+      internalID: 4852880742934112031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 439
+        width: 318
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c6cc3f0a35930d0800000000000000
+      internalID: -3442628489397900236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 66
+        width: 306
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330f9a60dc83e0c0800000000000000
+      internalID: -4547636371944176838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 66
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133bc9444a16ecc90800000000000000
+      internalID: -7147668200436747471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 66
+        width: 305
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2b4700886c02520800000000000000
+      internalID: 2675356466083574476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 66
+        width: 305
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c3839475272290800000000000000
+      internalID: -7915316637459037648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 66
+        width: 303
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc9f61918828ea60800000000000000
+      internalID: 7703451699573136579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 66
+        width: 304
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fa7701c311a23d0800000000000000
+      internalID: -3230750833012920474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMario_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 66
+        width: 318
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b537bb92727a460800000000000000
+      internalID: 7252808785095514978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a4c6c9a864c8fc419e786466fc97c7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileMario_Sheet_0: 2112399489996060086
+      TileMario_Sheet_1: -5385053460560709331
+      TileMario_Sheet_10: 951945025926373342
+      TileMario_Sheet_11: -3615876594252365812
+      TileMario_Sheet_12: -5154351594838991801
+      TileMario_Sheet_13: 4852880742934112031
+      TileMario_Sheet_14: -3442628489397900236
+      TileMario_Sheet_15: -4547636371944176838
+      TileMario_Sheet_16: -7147668200436747471
+      TileMario_Sheet_17: 2675356466083574476
+      TileMario_Sheet_18: -7915316637459037648
+      TileMario_Sheet_19: 7703451699573136579
+      TileMario_Sheet_2: -3221458179415894015
+      TileMario_Sheet_20: -3230750833012920474
+      TileMario_Sheet_21: 7252808785095514978
+      TileMario_Sheet_3: -8319480812297377858
+      TileMario_Sheet_4: 6630463956450947585
+      TileMario_Sheet_5: -3716665831351227855
+      TileMario_Sheet_6: -639995056776795310
+      TileMario_Sheet_7: -662685390203139107
+      TileMario_Sheet_8: 8350844030306983717
+      TileMario_Sheet_9: -5269914942102691307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
